@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CATOK 2</title>
+</head>
+<body>
+    <h1>Biodata Diri</h1>
+
+    <h1>
+        <img src="https://github.com/01-191-MaxavierGirvanusManurung/Catok-2/blob/main/Foto%20untuk%20HTML%20Catok2.jpg?raw=true" width="275" height="250"> 
+    </h1>
+    
+    <p>
+        Hallo!
+        Perkenalkan, nama saya Maxavier Girvanus Manurung, seorang mahasiswa ITERA dengan jurusan Teknik Informatika, dari Fakultas Teknik Industri (FTI) yang sedang menempuh gelar S1. Nomor Induk Mahasiswa saya adalah 123140191.
+        Pengalaman saya di bidang Informatika masih sangat sedikit, oleh sebab itu, saat ini saya sedang mengenal lebih dalam tentang Informatika dan mencari pengalaman-pengalaman baru.
+    </p>
+
+    <table>
+        <tr>
+            <th colspan="2">Data Diri</th>
+        </tr>
+        <tr>
+            <th>Nama</th>
+            <td>Maxavier Girvanus Manurung</td>
+        </tr>
+        <tr>
+            <th>NIM</th>
+            <td>123140191</td>
+        </tr>
+        <tr>
+            <th>Asal</th>
+            <td>Pematang Siantar</td>
+        </tr>
+        <tr>
+            <th>Umur</th>
+            <td>19 Tahun</td>
+        </tr>
+    </table>
+
+    <h3>Pendidikan</h3>
+    <ul>
+        <li>SD : SD Cinta Rakyat 3 Pematang Siantar</li>
+        <li>SMP : SMP Bintang Timur Pematang Siantar</li>
+        <li>SMA : SMA Bintang Timur Pematang Siantar</li>
+        <li>Kuliah : Institut Teknologi Sumatera</li>
+    </ul>
+
+    <h3>Contact me</h3>
+    <ul>
+        <li><a href="https://www.instagram.com/viergm__/" target="_blank">Instagram</a></li>
+        <li><a href="https://github.com/01-191-MaxavierGirvanusManurung" target="_blank">GitHub</a></li>
+    </ul>
+
+</body>
+</html>
